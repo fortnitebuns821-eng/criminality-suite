@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pomf2.lain.la/f/a7hrajfh.luau"))()
+loadstring(game:HttpGet("https://pomf2.lain.la/f/r15e188b.luau"))()
